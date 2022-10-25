@@ -9,3 +9,8 @@ bash download_all.sh
 cd ..
 ```
 
+### Open jupyter notebook
+```
+jupyter notebook bikes.ipynb
+```
+
